@@ -8,7 +8,7 @@ namespace testConsole20170619
         public static void Main(string[] args)
         {
 			Console.WriteLine("Hello World!");
-			Console.WriteLine("Hello World again!");
+			Console.WriteLine("Hello World again 12!");
 
 			CryptLib _crypt = new CryptLib();
 			string plainText = "This is the text to be encrypted.";
